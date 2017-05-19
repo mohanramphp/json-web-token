@@ -1,4 +1,10 @@
-# json-web-token
+# Understanding Json Web Token
+
+Technology Used
+1. Angular 4
+2. Express JS
+3. Mongo DB
+
 
 This project is to understand how Token based authentication works between client and server in cross domain using (Json Web Token Standard).
 
