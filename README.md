@@ -1,9 +1,9 @@
 # Understanding Json Web Token
 
 Technology Used
-1. Angular 4
-2. Express JS
-3. Mongo DB
+1. Front End - Advance JavaScript, ES6 Babel, Tyepscript, Angular 4 Framework, Angular Cli
+2. Back End - Advance JavaScript, ES6 Babel, Express JS Framework, Mongoose (to connect Mongo)
+3. Mongo DB - Mongo DB Server and client
 
 
 This project is to understand how Token based authentication works between client and server in cross domain using (Json Web Token Standard).
